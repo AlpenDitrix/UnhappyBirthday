@@ -33,7 +33,7 @@
     <span style="color:greenyellow;font-size:7.5em">ЕБАТЬ ЕЁ,</span><br/>
     <span style="color:aqua;font-size:10em">ГоСпОдНя!</span><br/>
     <span style="font-style: italic; font-weight: bold; font-size: 3em">НЕУЖЕЛИ ЭТОТ ЛЕНИВЫЙ ХУЙ ТАКИ ОТМЕТИТ ЭТОТ
-        <span style="font-size: 2em">КАК БУДТО БЫ</span>
+        <span style="font-size: 1.8em">КАК БУДТО БЫ</span>
         ЕЖЕГОДНЫЙ
         ПРАЗДНИК?</span>
     <br/>
