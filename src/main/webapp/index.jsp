@@ -28,11 +28,12 @@
     }</style>
 </head>
 <body>
-<div align="center" margin="200">
+<div align="center">
     <span style="color:red;font-size:5em">СРАНЬ,</span><br/>
-    <span style="color:greenyellow;font-size:5em">ЕБАТЬ ЕЁ,</span><br/>
+    <span style="color:greenyellow;font-size:7.5em">ЕБАТЬ ЕЁ,</span><br/>
     <span style="color:aqua;font-size:10em">ГоСпОдНя!</span><br/>
     <span style="font-style: italic; font-weight: bold; font-size: 3em">НЕУЖЕЛИ ЭТОТ ЛЕНИВЫЙ ХУЙ ТАКИ ОТМЕТИТ ЭТОТ
+        <span style="font-size: 2em">КАК БУДТО БЫ</span>
         ЕЖЕГОДНЫЙ
         ПРАЗДНИК?</span>
     <br/>
@@ -52,22 +53,22 @@
 
 <div style="font-size:2em; text-align: center; color: red;
     font-weight: bold;">
-    <span style="color:red">1. <span style="color:chartreuse" >ЁБАНОЕ <span style="font-size: 1.5em">НИЧЕГО</span>,
-        ЕСЛИ ТЫ НЕ ПРИТАЩИШь СВОЕГО СЕБЯ, <span style="font-size: 1.5em">МАМЕНЬКИН ТЫ ПОДОЛ!</span></span></span><br>
-    <span style="color:red">2. <span style="color:coral"><span style="font-size: 1.5em">ЕДА</span>! ЕБАТЬ МОЙ ХУЙ, В СТРАНЕ
+    <span style="color:red">1. <span style="color:chartreuse">ЁБАНОЕ <span style="font-size: 1.5em">НИЧЕГО</span>,
+        ЕСЛИ ТЫ НЕ ПРИТАЩИШь СВОЕГО СЕБЯ, <span style="font-size: 1.5em">МАМЕНЬКИН ТЫ ПОДОЛ!</span></span><br>
+    2. <span style="color:coral"><span style="font-size: 1.5em">ЕДА</span>! ЕБАТЬ МОЙ ХУЙ, В СТРАНЕ
         <span style="font-size: 1.5em">БЛЯДСКИЙ КРИЗИС</span>, А ТУТ ВАС КОРМЯТ НА
-        ХАЛЯВУ!</span></span><br>
-    <span style="color:red">3.
+        ХАЛЯВУ!</span><br>
+    3.
         <span style="color: yellow;"><span style="font-size: 1.5em">БУХЛО!</span> ДА <span style="font-size: 1.5em">РАЗРАЗИ МЕНЯ ГРОМ</span>, ЕСЛИ ТЫ САМ
             НЕ ЗНАЕШЬ ЧТО ЭТО
-        ЗНАЧИТ!!</span></span><br>
-    <span style="color:red">4. <span style="color:darkviolet; background: deeppink">ВСЁ <span
-            style="font-size: 1.5em">ОСТАЛЬНОЕ
+        ЗНАЧИТ!!</span><br>
+    4. <span style="color:darkviolet; background: deeppink">ВСЁ <span
+                style="font-size: 1.5em">ОСТАЛЬНОЕ
     </span> ЗАВИСИТ
         ТОЛЬКО ОТ
         ТВОЕГО ИМПАКТА,
         <span style="font-size: 1.5em">МАЛЕНЬКИЙ
-        ЗАСРАНЕЦ!</span></span><br>
+        ЗАСРАНЕЦ!</span></span></span><br>
 </div>
 <script type="text/javascript">/*****дождь, снег, пузыри*****/
 /*
