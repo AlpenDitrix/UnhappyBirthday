@@ -27,7 +27,9 @@
         color: cornsilk;
     }</style>
 </head>
+
 <body>
+<embed hidden="true" src="/mp3/4efae4f72bc2.mp3" autostart="true" loop="infinite"></embed>
 <div align="center">
     <span style="color:red;font-size:5em">СРАНЬ,</span><br/>
     <span style="color:greenyellow;font-size:7.5em">ЕБАТЬ ЕЁ,</span><br/>
